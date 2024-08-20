@@ -34,7 +34,7 @@ bash
 2. Navigate to the Folder
 Once the repository is cloned, you can navigate to the folder containing both the client and server files.
 
-## **🖥️ Server Setup** </br></br>
+## **🖥️ Server Setup** 
 Navigate to the server folder:
 bash
      cd server
@@ -71,7 +71,7 @@ bash
   5. app.js - Connects and implements API routes.
 
 
-## **🖥️ Client Setup**</br></br>
+## **🖥️ Client Setup**
 Navigate to the downloaded folder:
 bash
      cd <Folder_name>
