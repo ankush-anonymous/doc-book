@@ -1,6 +1,22 @@
 # doc-book
 A WebApp for a doctor's clinic where admin and Doctor's secretary can create slots and patient's can book slot and doctor can see their booked appointments
 
+### 💻Tech Stack Used:
+1. **React JS** : for frontend client view along with **tailwind.css**
+2. **Express JS** : for serverside rendering
+3. **Mongo DB** : No SQL database for storing data
+
+## 🔑Key Features:
+1. Users: Admin, Doctor, Doctor's Secretary, Patient
+2. Admin: It has all the user rights and roles as of Doctor and its secretary
+3. Patient: It can register itself on the portal and book slot as per his comfort and doctor's availability.
+4. Doctor's Secretary: It can create day to day slots as per doctor's availability.
+5. Doctor: It can see all booking of that day and patients arrived.
+
+## 🌈Highlighting Feature: 
+1. Use of JWT(Java Web Token) for user auth
+2. Use of Twilio for OTP(One Time Password) to Login or Register new user of the portal.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
